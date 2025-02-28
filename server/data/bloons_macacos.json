@@ -1,0 +1,351 @@
+{
+    "macacos": [
+        {
+            "nome": "Dart Monkey",
+            "classe": "Prim\u00e1rio",
+            "custo": 200,
+            "upgrades": [
+                {
+                    "nome": "Sharp Shots",
+                    "custo": 100
+                },
+                {
+                    "nome": "Razor Sharp Shots",
+                    "custo": 200
+                },
+                {
+                    "nome": "Triple Shot",
+                    "custo": 400
+                },
+                {
+                    "nome": "Super Monkey Fan Club",
+                    "custo": 800
+                }
+            ],
+            "image" :"/images/dart_monkey.jpg"
+        },
+        {
+            "nome": "Boomerang Monkey",
+            "classe": "Prim\u00e1rio",
+            "custo": 300,
+            "upgrades": [
+                {
+                    "nome": "Red Hot Rangs",
+                    "custo": 100
+                },
+                {
+                    "nome": "Glaive Ricochet",
+                    "custo": 400
+                },
+                {
+                    "nome": "Glaive Lord",
+                    "custo": 800
+                },
+                {
+                    "nome": "Perma Charge",
+                    "custo": 1500
+                }
+            ],
+            "image" :"/images/boomerang_monkey.jpg"
+        },
+        {
+            "nome": "Bomb Shooter",
+            "classe": "Prim\u00e1rio",
+            "custo": 400,
+            "upgrades": [
+                {
+                    "nome": "Heavy Bombs",
+                    "custo": 100
+                },
+                {
+                    "nome": "Bloon Impact",
+                    "custo": 200
+                },
+                {
+                    "nome": "MOAB Mauler",
+                    "custo": 400
+                },
+                {
+                    "nome": "MOAB Eliminator",
+                    "custo": 800
+                }
+            ],
+            "image" :"/images/bomber.jpg"
+
+        },
+        {
+            "nome": "Tack Shooter",
+            "classe": "Prim\u00e1rio",
+            "custo": 500,
+            "upgrades": [
+                {
+                    "nome": "Hot Shots",
+                    "custo": 100
+                },
+                {
+                    "nome": "Ring of Fire",
+                    "custo": 200
+                },
+                {
+                    "nome": "Inferno Ring",
+                    "custo": 400
+                },
+                {
+                    "nome": "The Tack Zone",
+                    "custo": 800
+                }
+            ],
+            "image" :"/images/tarrach.jpg"
+
+        },
+        {
+            "nome": "Ice Monkey",
+            "classe": "Prim\u00e1rio",
+            "custo": 600,
+            "upgrades": [
+                {
+                    "nome": "Cold Snap",
+                    "custo": 100
+                },
+                {
+                    "nome": "Cryo Cannon",
+                    "custo": 200
+                },
+                {
+                    "nome": "Absolute Zero",
+                    "custo": 400
+                },
+                {
+                    "nome": "Icicle Impale",
+                    "custo": 800
+                }
+            ],
+            "image" :"/images/ice_monkey.jpg"
+
+        },
+        {
+            "nome": "Glue Gunner",
+            "classe": "Prim\u00e1rio",
+            "custo": 700,
+            "upgrades": [
+                {
+                    "nome": "Corrosive Glue",
+                    "custo": 100
+                },
+                {
+                    "nome": "Glue Splatter",
+                    "custo": 200
+                },
+                {
+                    "nome": "Glue Storm",
+                    "custo": 400
+                },
+                {
+                    "nome": "Super Glue",
+                    "custo": 800
+                }
+            ],
+            "image" :"/images/glue_monkey.jpg"
+
+        },
+        {
+            "nome": "Sniper Monkey",
+            "classe": "Militar",
+            "custo": 800,
+            "upgrades": [
+                {
+                    "nome": "Full Metal Jacket",
+                    "custo": 100
+                },
+                {
+                    "nome": "Night Vision Goggles",
+                    "custo": 200
+                },
+                {
+                    "nome": "Shrapnel Shot",
+                    "custo": 400
+                },
+                {
+                    "nome": "Cripple MOAB",
+                    "custo": 800
+                }
+            ],
+            "image" :"/images/sniper_monkey.jpg"
+
+        },
+        {
+            "nome": "Monkey Sub",
+            "classe": "Militar",
+            "custo": 900,
+            "upgrades": [
+                {
+                    "nome": "Advanced Intel",
+                    "custo": 100
+                },
+                {
+                    "nome": "Twin Guns",
+                    "custo": 200
+                },
+                {
+                    "nome": "Advanced Targeting",
+                    "custo": 400
+                },
+                {
+                    "nome": "Ballistic Missile",
+                    "custo": 800
+                }
+            ],
+            "image" :"/images/sub_monkey.jpg"
+
+        },
+        {
+            "nome": "Monkey Buccaneer",
+            "classe": "Militar",
+            "custo": 1000,
+            "upgrades": [
+                {
+                    "nome": "Hot Shots",
+                    "custo": 100
+                },
+                {
+                    "nome": "Merchantman",
+                    "custo": 200
+                },
+                {
+                    "nome": "Pirate Lord",
+                    "custo": 400
+                },
+                {
+                    "nome": "Aircraft Carrier",
+                    "custo": 800
+                }
+            ],
+            "image" :"/images/bucaner_monkey.jpg"
+
+        },
+        {
+            "nome": "Monkey Ace",
+            "classe": "Militar",
+            "custo": 1100,
+            "upgrades": [
+                {
+                    "nome": "Rapid Fire",
+                    "custo": 100
+                },
+                {
+                    "nome": "Operation Dart Storm",
+                    "custo": 200
+                },
+                {
+                    "nome": "Sky Shredder",
+                    "custo": 400
+                },
+                {
+                    "nome": "Flying Fortress",
+                    "custo": 800
+                }
+            ],
+            "image" :"/images/airplane_monkey.jpg"
+
+        },
+        {
+            "nome": "Heli Pilot",
+            "classe": "Militar",
+            "custo": 1200,
+            "upgrades": [
+                {
+                    "nome": "Quad Darts",
+                    "custo": 100
+                },
+                {
+                    "nome": "Pursuit",
+                    "custo": 200
+                },
+                {
+                    "nome": "Apache Dartship",
+                    "custo": 400
+                },
+                {
+                    "nome": "Apache Prime",
+                    "custo": 800
+                }
+            ],
+            "image" :"/images/heli_monkey.jpg"
+
+        },
+        {
+            "nome": "Mortar Monkey",
+            "classe": "Militar",
+            "custo": 1300,
+            "upgrades": [
+                {
+                    "nome": "Burny Stuff",
+                    "custo": 100
+                },
+                {
+                    "nome": "Rapid Reload",
+                    "custo": 200
+                },
+                {
+                    "nome": "Artillery Battery",
+                    "custo": 400
+                },
+                {
+                    "nome": "Bloon Crush",
+                    "custo": 800
+                }
+            ],
+            "image" :"/images/morter_monkey.jpg"
+        },
+        {
+            "nome": "Druid",
+            "classe": "M\u00e1gico",
+            "custo": 1400,
+            "upgrades": [
+                {
+                    "nome": "Heart of Oak",
+                    "custo": 100
+                },
+                {
+                    "nome": "Spirit of the Forest",
+                    "custo": 200
+                },
+                {
+                    "nome": "Poplust",
+                    "custo": 400
+                },
+                {
+                    "nome": "Avatar of the Vengeful Monkey",
+                    "custo": 800
+                }
+            ],
+            "image" :"/images/druid.jpg"
+
+        },
+        {
+            "nome": "Wizard Monkey",
+            "classe": "M\u00e1gico",
+            "custo": 1500,
+            "upgrades": [
+                {
+                    "nome": "Fireball",
+                    "custo": 100
+                },
+                {
+                    "nome": "Dragon's Breath",
+                    "custo": 200
+                },
+                {
+                    "nome": "Arcane Spike",
+                    "custo": 400
+                },
+                {
+                    "nome": "Archmage",
+                    "custo": 800
+                }
+            ],
+            "image" :"/images/wizard_monkey.jpg"
+
+        }
+    ]
+}
